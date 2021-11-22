@@ -1,7 +1,7 @@
 /******************************TAG SELECTORS*******************************/
 
 h1{
-  color: blue;
+  color: red;
   font-size: 130px;
 }
 
@@ -10,7 +10,7 @@ h1:hover{
 }
 
 img:hover{
-  color:gold;
+  background-color:gold;
 }
 /******************************CLASS SELECTORS*****************************/
 
