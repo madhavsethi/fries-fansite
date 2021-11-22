@@ -1,0 +1,23 @@
+/******************************TAG SELECTORS*******************************/
+
+h1{
+  color: red;
+  font-size: 130px;
+}
+
+h1:hover{
+  color: gold;
+}
+
+img:hover{
+  color:gold;
+}
+/******************************CLASS SELECTORS*****************************/
+
+.fries{
+  background-color: red;
+}
+
+.broccoli{
+  background-color: green;
+}
